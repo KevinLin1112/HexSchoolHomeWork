@@ -54,11 +54,11 @@ table {
 .header {
 
 }
-.header {
-
-}
-.content ul{
+.header ul{
 	display: flex;
+}
+.content {
+
 }
 
 .footer {
