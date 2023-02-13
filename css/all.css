@@ -54,9 +54,11 @@ table {
 .header {
 
 }
+.header {
 
-.content {
-
+}
+.content ul{
+	display: flex;
 }
 
 .footer {
